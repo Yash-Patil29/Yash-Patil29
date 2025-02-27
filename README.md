@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-patil29" alt="yash-patil29" /></a> </p>
 
-- 🌱 I’m currently learning **react, spring boot, AWS , MongoDB**
+- 🌱 I’m currently learning **react, spring boot, AWS , Spring JPA , Spring Security**
 
 - 💬 Ask me about **Java, android Development**
 
